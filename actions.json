@@ -1,0 +1,472 @@
+{
+  "actions": [
+    {
+      "name": "/actions/Default/in/Horizontal",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Vertical",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/MouseX",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/MouseY",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Take",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Build",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Save",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Drop",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Craft",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/RestKey",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Jump",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Rotate",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/Default/in/Rotate_pos",
+      "type": "vector1",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Rotate_neg",
+      "type": "vector1",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/NextPage",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Fire1",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/AltFire",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Skip",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/NextChapter",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Combine",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Utility",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Esc",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/PlayerList",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Run",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Crouch",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/SurvivalBook",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Lighter",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/Inventory",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/WalkyTalky",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/ItemSlot1",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/ItemSlot2",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/ItemSlot3",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/ItemSlot4",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/HeadsetOnHead",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/Default/in/Place",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Default/in/rightHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right"
+    },
+    {
+      "name": "/actions/Default/in/leftHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/left"
+    },
+    {
+      "name": "/actions/Inventory/in/Drop",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/Craft",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/Esc",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/SurvivalBook",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/Inventory",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/Equip",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/Combine",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/Horizontal",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/Vertical",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/MouseX",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/MouseY",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/ItemSlot1",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/ItemSlot2",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/ItemSlot3",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Inventory/in/ItemSlot4",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/Back",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/Take",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/ScrollX",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/ScrollY",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/Rebind",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/Vertical",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/Up",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/Down",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/SetOption_pos",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/SetOption_neg",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/PreviousPage",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/NextPage",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Menu/in/rightHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right"
+    },
+    {
+      "name": "/actions/Menu/in/leftHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/left"
+    },
+    {
+      "name": "/actions/Book/in/Back",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/SurvivalBook",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/Inventory",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/Select",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/Horizontal",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/Vertical",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/MouseX",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/MouseY",
+      "type": "vector2",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/PreviousPage",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/NextPage",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/PreviousChapter",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Book/in/NextChapter",
+      "type": "boolean",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Rig/in/HandL",
+      "type": "pose",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Rig/in/HandR",
+      "type": "pose",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/Rig/out/Haptic",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/Default",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/Inventory",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/Menu",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/Book",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/Rig",
+      "usage": "leftright"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "bindings_vive_controller.json"
+    },
+    {
+      "controller_type": "knuckles",
+      "binding_url": "bindings_knuckles.json"
+    },
+    {
+      "controller_type": "holographic_controller",
+      "binding_url": "bindings_holographic_controller.json"
+    },
+    {
+      "controller_type": "vive",
+      "binding_url": "binding_vive.json"
+    },
+    {
+      "controller_type": "vive_pro",
+      "binding_url": "binding_vive_pro.json"
+    },
+    {
+      "controller_type": "rift",
+      "binding_url": "binding_rift.json"
+    },
+    {
+      "controller_type": "holographic_hmd",
+      "binding_url": "binding_holographic_hmd.json"
+    },
+    {
+      "controller_type": "vive_tracker_camera",
+      "binding_url": "binding_vive_tracker_camera.json"
+    },
+    {
+      "controller_type": "oculus_touch",
+      "binding_url": "bindings_oculus_touch.json"
+    }
+  ],
+  "localization": [
+    {
+      "language_tag": "en_US"
+    }
+  ]
+}
